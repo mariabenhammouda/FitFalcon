@@ -76,3 +76,4 @@ Animation:
 
 ![Screen Shot 2024-03-02 at 8 10 43 AM](https://github.com/mariabenhammouda/FitFalcon/assets/102983688/4158398c-168c-4c03-89dd-ed0bc7943c25)
 
+The project can be accessed via the following link: https://drive.google.com/file/d/1n_kv8a5_mr6nwFeJAnC0515y3921kQgs/view?usp=sharing
